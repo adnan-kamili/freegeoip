@@ -2,7 +2,7 @@
 	"comment": "",
 	"heroku": {
 		"install" : [ "./cmd/..." ],
-		"goVersion": "go1.7"
+		"goVersion": "go1.9"
 		 },
 	"ignore": "test",
 	"package": [
